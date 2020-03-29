@@ -10,6 +10,7 @@ Here are available resources to take from (trackers, educational resources and a
 ### ACTIVE FUNDRAISERS YOU CAN HELP WITH:
 ### a. Pan India Fundraisers:
 - [PM CARES fund](https://www.pmindia.gov.in/en/?query)
+- [India Fellows COVID-Relief fundraiser](https://www.cashrelief.org/covid-relief/)
 - [Ketto Fundraisers](https://covid19.ketto.org/)
 - [Give India](https://fundraisers.giveindia.org/campaigns/donate-so-daily-wage-earners-can-feed-their-families-mission-support-covid-hit-families)
 - [Milaap Fundraisers](https://milaap.org/communities/covid-19%E2%80%A6)
@@ -90,12 +91,13 @@ Here are available resources to take from (trackers, educational resources and a
 - Science Max
 - SoulPancake
 ---
-### Resources for adults and kids alike
+### Mental Health and Growth Resources
  ![Visual to gain control](https://github.com/Sabarish-Shankar/COVID-19/blob/master/WhatsApp%20Image%202020-03-19%20at%203.39.14%20PM.jpeg)
 - [Youtube @athome](https://www.youtube.com/user/YouTube)
 - [Mental Health Resource document](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID-19%20Mental%20Health%20Resources%20List.docx)  
+- [Million Smiles blogs](https://millionsmiles.in/blog/) 
 - [Online Harappa Education course on 'Embracing Change' for COVID-19](https://harappa.education/auth/register) 
-- Mindfulness Resources:
+- [Mindfulness Resources]
 ---
 
 ### Legal Resources
@@ -115,6 +117,7 @@ Here are available resources to take from (trackers, educational resources and a
 - [Haqdarshak posters for construction workers](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Construction%20Workers%20Relief)   
 - Haqdarshak helpline numbers to help you navigate through the COVID-19 relief packages announced by the government:
 ![Haqdarshak Helpline Numbers](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Haqdarshal%20Legal/Haqdarshak%20Helpline%20Number.png)
+---
 
 
 
