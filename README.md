@@ -51,9 +51,9 @@ Here are available resources to take from (trackers, educational resources and a
 ---
 ### Resources for K-12 children
 - [This image on emotional regulations for children is useful](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Emotional%20Regulation%20in%20Children.png)
-- [COVID-19 Handbook in English to put things in perspective for your kids](https://github.com/Sabarish-Shankar/COVID-19/blob/master/64c685_319c5acf38d34604b537ac9fae37fc80.pdf)
+- [COVID-19 handbook for kids in English to put things in perspective](https://github.com/Sabarish-Shankar/COVID-19/blob/master/64c685_319c5acf38d34604b537ac9fae37fc80.pdf)
 - [COVID-19 handbook in Tamil](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Corona%20Tamil%20Book%20for%20Kids.pdf)
-- [Article by Ms. Aarthi C Rajaratnam useful parents to regulate children's emotions about COVID-19](<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Faarti.c.rajaratnam%2Fposts%2F10158681538184363&width=500" width="500" height="753" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>)
+- [Article by Ms. Aarthi C Rajaratnam useful parents to regulate children's emotions about COVID-19](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Faarti.c.rajaratnam%2Fposts%2F10158681538184363&width=500" width="500" height="753" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media)
 
 ##### Websites for children to learn from  
 - Teach for All Network Resources can be accessed [here](https://docs.google.com/spreadsheets/d/1m70zyscwEFwU1Id8x1SPib8jHp-Z3R7-CqZVczR6UMo/edit?usp=drivesdk)
