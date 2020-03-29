@@ -100,18 +100,18 @@ Here are available resources to take from (trackers, educational resources and a
 ### Legal Resources
 - [COVID India Legal Updates/Resources-King Stubb & Kasiva](https://ksandk.com/covid-india-legal-updates/)
 -  The central government announced a Rs. 1.7L crore relief package to assist the most vulnerable section of the society. Haqdarshak Empowerment Solutions put together the details in 11 languages to help citizens learn about the benefits and the ways to avail them. 
-   - Assamese Posters
-   - Bengali Posters
-   - English Posters
-   - Gujarati Posters
-   - Hindi Posters
-   - Kannada Posters
-   - Marathi Posters
-   - Odia Posters
-   - Punjabi Posters
-   - Tamil Posters
-   - Telugu Posters
-- Haqdarshak posters for construction workers   
+   - [Assamese Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Assamese%20Posters)
+   - [Bengali Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Bengali%20Posters)
+   - [English Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/English%20Posters)
+   - [Gujarati Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Gujarati)
+   - [Hindi Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Hindi)
+   - [Kannada Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Kannada)
+   - [Marathi Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Marathi)
+   - [Odia Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Odia%20Posters)
+   - [Punjabi Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Punjabi)
+   - [Tamil Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Tamil%20Posters)
+   - [Telugu Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Telugu)
+- [Haqdarshak posters for construction workers](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Construction%20Workers%20Relief)   
 
 
 
