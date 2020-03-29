@@ -112,6 +112,8 @@ Here are available resources to take from (trackers, educational resources and a
    - [Tamil Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Tamil%20Posters)
    - [Telugu Posters](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Telugu)
 - [Haqdarshak posters for construction workers](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Construction%20Workers%20Relief)   
+- Haqdarshak helpline numbers to help you navigate through the COVID-19 relief packages announced by the government:
+![Haqdarshak Helpline Numbers](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Haqdarshal%20Legal/Haqdarshak%20Helpline%20Number.png)
 
 
 
