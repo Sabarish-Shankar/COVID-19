@@ -51,7 +51,8 @@ Here are available resources to take from (trackers, educational resources and a
 ---
 ### Online resources for K-12 children
 - Teach for All Network Resources can be accessed [here](https://docs.google.com/spreadsheets/d/1m70zyscwEFwU1Id8x1SPib8jHp-Z3R7-CqZVczR6UMo/edit?usp=drivesdk)
-#### Websites to search for 
+
+##### Websites to search for 
 - fREADom
 - BrainPop
 - Curiosity Stream
@@ -86,8 +87,11 @@ Here are available resources to take from (trackers, educational resources and a
 - SoulPancake
 ---
 ### Resources for adults and kids alike
+- ![](link-to-image)
 - [Youtube @athome](https://www.youtube.com/user/YouTube)
 - [Mental Health Resource document](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID-19%20Mental%20Health%20Resources%20List.docx)  
+- Mindfulness Resources:
+
 
 
 
