@@ -25,28 +25,28 @@ Here are available resources to take from (trackers, educational resources and a
 - Delhi waste Picker's collective: https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view
 
 2. **Karnataka (KA)**
-- Upper Karnataka: Safa Society COVID-19 Relief kits - https://pages.razorpay.com/Covid19Relief
-- Bangalore: Safa Society COVID-19 Relief kits - https://pages.razorpay.com/Covid19Relief
-- Hasirudula: http://hasirudala.in/
+- Upper Karnataka: Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
+- Bangalore: Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
+- Hasirudula [funds](http://hasirudala.in/)
 
 3. **Madhya Pradesh (MP)**
-- Jan Sahas: https://jansahasindia.org/donate-us/
+- Jan Sahas [funds](https://jansahasindia.org/donate-us/)
 
 4. **Maharashtra (MH)**
-- CORO support to wage earners https://milaap.org/fundraisers/support-luis-miranda?community=10177
--  N-95 masks to doctors https://milaap.org/fundraisers/support-project-mumbai?community=10177
+- [CORO support to wage earners](https://milaap.org/fundraisers/support-luis-miranda?community=10177)
+-  [N-95 masks to doctors]( https://milaap.org/fundraisers/support-project-mumbai?community=10177)
 
 5. **Tamil Nadu (TN) Chennai** 
-- Safa Society COVID-19 Relief kits- https://pages.razorpay.com/Covid19Relief
 - https://milaap.org/fundraisers/support-conservancy-workers?community=10177
-- Transgender community in Chennai: https://milaap.org/fundraisers/support-kanaga?community=10177
+- Support Transgender community in Chennai [funds](https://milaap.org/fundraisers/support-kanaga?community=10177)
+- Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
 
 6. **Telangana (TS): Hyderabad** 
-- Safa Society COVID-19 Relief kits - https://pages.razorpay.com/Covid19Relief
+- Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
 
 7. **Uttar Pradesh (UP)**
 - Aligarh UP: https://milaap.org/fundraisers/support-street-connected-families
-- Milan Foundation: Supporting community health workers, daily wage earners, girl icon network: https://milaap.org/fundraisers/support-milaan-foundation
+- Milan Foundation: Supporting community health workers, daily wage earners, [girl icon network](https://milaap.org/fundraisers/support-milaan-foundation)
 
 ---
 ### Online resources for K-12 children
