@@ -66,6 +66,8 @@ Here are available resources to take from (trackers, educational resources and a
 -[Preschool to K-12 homeschool curriculum](https://allinonehomeschool.com/)
 - [Thinking games by grade](https://allinonehomeschool.com/thinking/) 
 
+##### [Other Educational Websites](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Educational%20Websites.txt)
+
 ##### Youtube Channels to follow:
 - [Youtube Learning](https://learnathome.withyoutube.com/#teens)
 - Crash Course Kids
@@ -82,6 +84,10 @@ Here are available resources to take from (trackers, educational resources and a
 - Science Max
 - SoulPancake
 ---
+### Resources for adults and kids alike
+- [Youtube @athome](https://www.youtube.com/user/YouTube)
+- [Mental Health Resource document](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID-19%20Mental%20Health%20Resources%20List.docx)  
+
 
 
 
