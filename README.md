@@ -10,6 +10,7 @@ Here are available resources to take from (trackers, educational resources and a
 ### ACTIVE FUNDRAISERS YOU CAN HELP WITH:
 ### a. Pan India Fundraisers:
 - [PM CARES fund](https://www.pmindia.gov.in/en/?query)
+- [State government's fundraising information](https://www.investindia.gov.in/bip/resources/state-and-national-relief-funds-accepting-donations-covid-19)
 - [India Fellows COVID-Relief fundraiser](https://www.cashrelief.org/covid-relief/)
 - [Ketto Fundraisers](https://covid19.ketto.org/)
 - [Give India](https://fundraisers.giveindia.org/campaigns/donate-so-daily-wage-earners-can-feed-their-families-mission-support-covid-hit-families)
@@ -124,7 +125,49 @@ Here are available resources to take from (trackers, educational resources and a
 - Haqdarshak helpline numbers to help you navigate through the COVID-19 relief packages announced by the government:
 ![Haqdarshak Helpline Numbers](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Haqdarshal%20Legal/Haqdarshak%20Helpline%20Number.png)
 ---
+### Medical and Emergency Resources
+- [Corona Virus explained and what you should do](https://youtu.be/BtN-goy9VOY)
+- [Indian Government COVID-19 page](https://www.mygov.in/covid-19)
+- [World Health Organization Advisory Page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+- [Gramvaani COVID-19 resource](https://drive.google.com/file/d/1XKi9ebIyLrXtFvdIS-GVpuZ6Sc5nyQkN/view)
+- These doctors you can consult for free on phone. 
 
+   - For telephonic guidance on COVID-19 from 8 am to 12 noon - 
+     - Dr Tushar Shah.   9321469911
+     - Dr M Bhatt.           9320407074
+     - Dr D Doshi.           9820237951
+     - Dr D Rathod.         8879148679
+     - Dr R Gwalani.        8779835257
+     - Dr D Kansara.       8369846412
+
+    - For telephonic guidance on Covid-19 from 12 to 4 pm - 
+      - Dr G Kamath.      9136575405
+      - Dr S Manglik.       9820222384
+      - Dr J Jain.             7021092685
+      - Dr A Thakkar.      9321470745
+      - Dr L Bhagat.        9820732570
+      - Dr N Shah.           9821140656
+      - Dr S Phanse.        8779328220
+      - Dr J Shah.            9869031354
+
+     - For telephonic guidance on Covid-19 from 4 to 8 pm - 
+        - Dr N Zaveri.        9321489748
+        - Dr S Ansari.        7045720278
+        - Dr L Kedia.          9321470560
+        - Dr B Shukla.        9321489060
+        - Dr S Halwai.        9867379346 
+        - Dr M Kotian.        8928650290
+
+     - For telephonic guidance on Covid-19 from 8 to 11 pm - 
+         - Dr N Kumar.           8104605550
+         - Dr P Bhargav.        9833887603
+         - Dr R Chauhan.       9892135010
+         - Dr B Kharat.           9969471815
+         - Dr S Dhulekar.        9892139027
+         - Dr S Pandit.           9422473277
+
+P.S. - Another excellent helpline (24×7) has been initiated by Indian Medical Association. The numbers are +919999672238 and +919999672239.
+---
 
 
 
