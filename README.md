@@ -64,7 +64,7 @@ Here are available resources to take from (trackers, educational resources and a
 - Discovery Education
 - [Scholastic free learn from home site](https://classroommagazines.scholastic.com/support/learnathome.html)
 -[Preschool to K-12 homeschool curriculum](https://allinonehomeschool.com/)
--[Thinking games by grade](https://allinonehomeschool.com/thinking/) 
+- [Thinking games by grade](https://allinonehomeschool.com/thinking/) 
 
 ##### Youtube Channels to follow:
 - [Youtube Learning](https://learnathome.withyoutube.com/#teens)
@@ -81,7 +81,6 @@ Here are available resources to take from (trackers, educational resources and a
 - Mike Likes Science
 - Science Max
 - SoulPancake
-
 ---
 
 
