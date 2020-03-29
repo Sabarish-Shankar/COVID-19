@@ -95,8 +95,23 @@ Here are available resources to take from (trackers, educational resources and a
 - [Youtube @athome](https://www.youtube.com/user/YouTube)
 - [Mental Health Resource document](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID-19%20Mental%20Health%20Resources%20List.docx)  
 - Mindfulness Resources:
-
 ---
+
+### Legal Resources
+- [COVID India Legal Updates/Resources-King Stubb & Kasiva](https://ksandk.com/covid-india-legal-updates/)
+-  The central government announced a Rs. 1.7L crore relief package to assist the most vulnerable section of the society. Haqdarshak Empowerment Solutions put together the details in 11 languages to help citizens learn about the benefits and the ways to avail them. 
+   - Assamese Posters
+   - Bengali Posters
+   - English Posters
+   - Gujarati Posters
+   - Hindi Posters
+   - Kannada Posters
+   - Marathi Posters
+   - Odia Posters
+   - Punjabi Posters
+   - Tamil Posters
+   - Telugu Posters
+- Haqdarshak posters for construction workers   
 
 
 
