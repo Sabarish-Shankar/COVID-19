@@ -24,6 +24,8 @@ Here are available resources to take from (trackers, educational resources and a
 1. **Delhi (DL)**
 - Our Democracy: https://www.ourdemocracy.in/Campaign/covid19Delhi
 - Delhi waste Picker's collective: https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view
+- [**Delhi Government Corona Relief**](https://epass.jantasamvad.org/epass/init/)
+- [**List of 500 places where free food is available for 6 hours every day**](https://tinyurl.com/usya74e)
 
 2. **Karnataka (KA)**
 - Upper Karnataka: Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
@@ -74,8 +76,9 @@ Here are available resources to take from (trackers, educational resources and a
 - [Thinking games by grade](https://allinonehomeschool.com/thinking/) 
 
 ##### [Other Educational Websites](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Educational%20Websites.txt)
-
-##### Youtube Channels to follow:
+---
+### Youtube Resources
+##### For Children 
 - [Youtube Learning](https://learnathome.withyoutube.com/#teens)
 - Crash Course Kids
 - Science Channel
@@ -90,10 +93,13 @@ Here are available resources to take from (trackers, educational resources and a
 - Mike Likes Science
 - Science Max
 - SoulPancake
+
+##### For Everyone
+- [Youtube @athome](https://www.youtube.com/user/YouTube)
+
 ---
 ### Mental Health and Growth Resources
  ![Visual to gain control](https://github.com/Sabarish-Shankar/COVID-19/blob/master/WhatsApp%20Image%202020-03-19%20at%203.39.14%20PM.jpeg)
-- [Youtube @athome](https://www.youtube.com/user/YouTube)
 - [Mental Health Resource document](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID-19%20Mental%20Health%20Resources%20List.docx)  
 - [Million Smiles blogs](https://millionsmiles.in/blog/) 
 - [Online Harappa Education course on 'Embracing Change' for COVID-19](https://harappa.education/auth/register) 
