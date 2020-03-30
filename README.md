@@ -73,7 +73,7 @@ Here are available resources to take from (trackers, educational resources and a
 - Creative Bug
 - Discovery Education
 - [Scholastic free learn from home site](https://classroommagazines.scholastic.com/support/learnathome.html)
--[Preschool to K-12 homeschool curriculum](https://allinonehomeschool.com/)
+- [Preschool to K-12 homeschool curriculum](https://allinonehomeschool.com/)
 - [Thinking games by grade](https://allinonehomeschool.com/thinking/) 
 
 ##### [Other Educational Websites](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Educational%20Websites.txt)
