@@ -2,7 +2,17 @@
 Here are available resources to take from (trackers, educational resources and articles for children and adults, mental health resources) and to give to (fundraisers) compiled for COVID-19. :heart:
 
 ---
+Resources
+=================
+- [Trackers](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#trackers)
+- [Active fundraisers you can contribute to](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#active-fundraisers-you-can-help-with)
+- [Resources for K-12 children](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources-for-k-12-children)
+- [YouTube Resource](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#youtube-resources) 
+- [Mental Health Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#mental-health-and-growth-resources)
+- [Legal Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#legal-resources)
+- [Medical and emergency resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#medical-and-emergency-resources)
 
+--- 
 ### TRACKERS
 - Up to date Tracker of COVID-19 in India https://www.covid19india.org/
 - World Corona Virus tracker can be found here: https://www.worldometers.info/coronavirus/
