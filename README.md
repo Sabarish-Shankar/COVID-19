@@ -11,6 +11,7 @@ Resources
 - [Mental Health Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#mental-health-and-growth-resources)
 - [Legal Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#legal-resources)
 - [Medical and emergency resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#medical-and-emergency-resources)
+- [Resources for Teachers](https://github.com/Sabarish-Shankar/COVID-19#resources-for-teachers)
 - [State/UT wise resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#b-stateut-wise)
   - [Delhi government Corona Relief resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#delhi-government-corona-relief) 
   - [Maharashtra government awareness](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#maharashtra-government-response)
