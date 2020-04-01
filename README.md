@@ -7,7 +7,7 @@ Resources
 - [Trackers](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#trackers)
 - [Active fundraisers you can contribute to](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#active-fundraisers-you-can-help-with)
 - [Resources for K-12 children](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources-for-k-12-children)
-- [YouTube Resource](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#youtube-resources) 
+- [YouTube Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#youtube-resources) 
 - [Mental Health Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#mental-health-and-growth-resources)
 - [Legal Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#legal-resources)
 - [Medical and emergency resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#medical-and-emergency-resources)
@@ -35,8 +35,26 @@ Resources
 1. **Delhi (DL)**
 - Our Democracy: https://www.ourdemocracy.in/Campaign/covid19Delhi
 - Delhi waste Picker's collective: https://pages.razorpay.com/pl_EW6B2AlIPZz41X/view
-- [**Delhi Government Corona Relief**](https://epass.jantasamvad.org/epass/init/)
-- [**List of 500 places where free food is available for 6 hours every day**](https://tinyurl.com/usya74e)
+##### [**Delhi Government Corona Relief**](https://epass.jantasamvad.org/epass/init/)
+- 650+ Free Hunger Relief Centers where free food is available for 6 hours every day
+   - [List](https://tinyurl.com/uhujgwe)
+   - [Map](https://tinyurl.com/u9chmbp) 
+- 60+ Temporary Relief Shelter Homes
+   - [List](https://tinyurl.com/vbxbfce)
+   - [Map](https://tinyurl.com/r2uqw9x)
+- 2000+ Active Government Ration Shops
+   - [List](https://tinyurl.com/svo2pvh)
+   - [Map](https://tinyurl.com/yxx678pf)
+- 650+ मुफ़्त भोजनालय 
+   - [लिस्ट](https://tinyurl.com/uhujgwe)
+   - [मैप](https://tinyurl.com/u9chmbp)
+- 60+ अतिरिक्त रैन बसेरे - जरूरतमंद बेघर लोगों के  लिए 
+   - [लिस्ट](https://tinyurl.com/vbxbfce)
+   - [मैप](https://tinyurl.com/r2uqw9x)
+- 2000+ चालू सरकारी राशन दुकानें 
+   - [लिस्ट](https://tinyurl.com/svo2pvh)
+   - [मैप](https://tinyurl.com/yxx678pf)
+
 
 2. **Karnataka (KA)**
 - Upper Karnataka: Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
@@ -90,6 +108,7 @@ Resources
 ---
 ### Youtube Resources
 ##### For Children 
+- Kindly you safe.youtube.net if you are a teacher and sharing resources with your students. Following channels are useful.
 - [Youtube Learning](https://learnathome.withyoutube.com/#teens)
 - Crash Course Kids
 - Science Channel
@@ -178,6 +197,10 @@ Resources
 
 P.S. - Another excellent helpline (24×7) has been initiated by Indian Medical Association. The numbers are +919999672238 and +919999672239.
 ---
+
+### MUST READS
+- [What India needs to contain COVID-19 spread](https://www.indiatoday.in/india/story/coronavirus-lockdown-india-cambridge-mathematical-model-extension-1661321-2020-03-30)
+
 
 ---
 
