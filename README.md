@@ -79,6 +79,14 @@ Resources
 - https://milaap.org/fundraisers/support-conservancy-workers?community=10177
 - Support Transgender community in Chennai [funds](https://milaap.org/fundraisers/support-kanaga?community=10177)
 - Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
+##### Tamil Nadu Essential Government Resources 
+- Dedicated helpline for COVID <044 - 25384520>
+- Register as Volunteers/ NGO <http://www.chennaicorporation.gov.in/relief_2016/sel_grp.htm>
+- ![Chennai Zonal Office Contact](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Chennai%20Zonal%20Office%20Details.png)
+- ![Chennai government donation drive](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Chennai%20Government%20Resource%20Donation.png)
+- ![COVID Test Labs in TN](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID%20Test%20Labs%20in%20Tamil%20Nadu.png)
+- ![TN Mental Health Number](https://github.com/Sabarish-Shankar/COVID-19/blob/master/TN%20Mental%20Helpline%20Number.png)
+
 
 6. **Telangana (TS): Hyderabad** 
 - Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
