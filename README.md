@@ -75,9 +75,12 @@ Resources
 4. **Maharashtra (MH)**
 - [CORO support to wage earners](https://milaap.org/fundraisers/support-luis-miranda?community=10177)
 -  [N-95 masks to doctors]( https://milaap.org/fundraisers/support-project-mumbai?community=10177)
+- [Vivekananda Vaidhyak Pratishthan](https://milaap.org/fundraisers/support-vivekananda-vaidyak-pratishthan)
 ##### Maharashtra Government Response
 ![Maharashtra Poster](https://github.com/Sabarish-Shankar/COVID-19/blob/master/WhatsApp%20Image%202020-03-31%20at%206.24.29%20AM.jpeg)
+
 - [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+
 
 5. **Tamil Nadu (TN) Chennai** 
 - https://milaap.org/fundraisers/support-conservancy-workers?community=10177
