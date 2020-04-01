@@ -12,10 +12,10 @@ Resources
 - [Legal Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#legal-resources)
 - [Medical and emergency resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#medical-and-emergency-resources)
 - [State/UT wise resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#b-stateut-wise)
-  - [Delhi government Corona Relief](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#delhi-government-corona-relief) 
-  - [Maharashtra government poster](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#maharashtra-government-response)
+  - [Delhi government Corona Relief resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#delhi-government-corona-relief) 
+  - [Maharashtra government awareness](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#maharashtra-government-response)
+  - [Tamil Nadu critical government Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#tamil-nadu-essential-government-resources) 
   
-
 
 --- 
 ### TRACKERS
