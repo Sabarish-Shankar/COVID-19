@@ -148,7 +148,8 @@ Resources
 - [Mental Health Resource document](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID-19%20Mental%20Health%20Resources%20List.docx)  
 - [Million Smiles blogs](https://millionsmiles.in/blog/) 
 - [Online Harappa Education course on 'Embracing Change' for COVID-19](https://harappa.education/auth/register) 
-- [Mindfulness Resources]
+- ![Mental Health Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Mental%20Health%20Resources%20.png)
+
 ---
 
 ### Legal Resources
