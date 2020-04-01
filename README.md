@@ -35,7 +35,7 @@ Resources
 - [Uday Foundation](https://www.udayfoundation.org/coronavirus-disease-covid-19/)
 - [Goonj](www.goonj.org)
 
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 
 ### b. State/UT wise:
 
@@ -61,7 +61,7 @@ Resources
 - 2000+ चालू सरकारी राशन दुकानें 
    - [लिस्ट](https://tinyurl.com/svo2pvh)
    - [मैप](https://tinyurl.com/yxx678pf)
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 
 2. **Karnataka (KA)**
 - Upper Karnataka: Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
@@ -76,6 +76,7 @@ Resources
 -  [N-95 masks to doctors]( https://milaap.org/fundraisers/support-project-mumbai?community=10177)
 ##### Maharashtra Government Response
 ![Maharashtra Poster](https://github.com/Sabarish-Shankar/COVID-19/blob/master/WhatsApp%20Image%202020-03-31%20at%206.24.29%20AM.jpeg)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 
 5. **Tamil Nadu (TN) Chennai** 
 - https://milaap.org/fundraisers/support-conservancy-workers?community=10177
@@ -88,7 +89,7 @@ Resources
 - ![Chennai government donation drive](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Chennai%20Government%20Resource%20Donation.png)
 - ![COVID Test Labs in TN](https://github.com/Sabarish-Shankar/COVID-19/blob/master/COVID%20Test%20Labs%20in%20Tamil%20Nadu.png)
 - ![TN Mental Health Number](https://github.com/Sabarish-Shankar/COVID-19/blob/master/TN%20Mental%20Helpline%20Number.png)
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 
 6. **Telangana (TS): Hyderabad** 
 - Safa Society COVID-19 Relief [kits](https://pages.razorpay.com/Covid19Relief)
@@ -96,7 +97,7 @@ Resources
 7. **Uttar Pradesh (UP)**
 - Aligarh UP: https://milaap.org/fundraisers/support-street-connected-families
 - Milan Foundation: Supporting community health workers, daily wage earners, [girl icon network](https://milaap.org/fundraisers/support-milaan-foundation)
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 ---
 ### Resources for K-12 children
 - [This image on emotional regulations for children is useful](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Emotional%20Regulation%20in%20Children.png)
@@ -120,7 +121,8 @@ Resources
 - [Scholastic free learn from home site](https://classroommagazines.scholastic.com/support/learnathome.html)
 - [Preschool to K-12 homeschool curriculum](https://allinonehomeschool.com/)
 - [Thinking games by grade](https://allinonehomeschool.com/thinking/) 
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+
 ##### [Other Educational Websites](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Educational%20Websites.txt)
 ---
 ### Youtube Resources
@@ -140,7 +142,7 @@ Resources
 - Mike Likes Science
 - Science Max
 - SoulPancake
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 ##### For Everyone
 - [Youtube @athome](https://www.youtube.com/user/YouTube)
 
@@ -151,7 +153,7 @@ Resources
 - [Million Smiles blogs](https://millionsmiles.in/blog/) 
 - [Online Harappa Education course on 'Embracing Change' for COVID-19](https://harappa.education/auth/register) 
 - ![Mental Health Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Mental%20Health%20Resources%20.png)
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 ---
 
 ### Legal Resources
@@ -171,7 +173,7 @@ Resources
 - [Haqdarshak posters for construction workers](https://github.com/Sabarish-Shankar/COVID-19/tree/master/Haqdarshal%20Legal/Construction%20Workers%20Relief)   
 - Haqdarshak helpline numbers to help you navigate through the COVID-19 relief packages announced by the government:
 ![Haqdarshak Helpline Numbers](https://github.com/Sabarish-Shankar/COVID-19/blob/master/Haqdarshal%20Legal/Haqdarshak%20Helpline%20Number.png)
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 ---
 ### Medical and Emergency Resources
 - [Corona Virus explained and what you should do](https://youtu.be/BtN-goy9VOY)
@@ -215,7 +217,7 @@ Resources
          - Dr S Pandit.           9422473277
 
 P.S. - Another excellent helpline (24×7) has been initiated by Indian Medical Association. The numbers are +919999672238 and +919999672239.
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 ---
 
 ### MUST READS
@@ -223,7 +225,7 @@ P.S. - Another excellent helpline (24×7) has been initiated by Indian Medical A
 
 
 ---
--[Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
+- [Back to Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#resources)
 
 
 
