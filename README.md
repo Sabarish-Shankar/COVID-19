@@ -11,6 +11,9 @@ Resources
 - [Mental Health Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#mental-health-and-growth-resources)
 - [Legal Resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#legal-resources)
 - [Medical and emergency resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#medical-and-emergency-resources)
+- [State/UT wise resources](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#b-stateut-wise)
+  -[Delhi government Corona Relief](https://github.com/Sabarish-Shankar/COVID-19/blob/master/README.md#delhi-government-corona-relief) 
+
 
 --- 
 ### TRACKERS
@@ -67,6 +70,7 @@ Resources
 4. **Maharashtra (MH)**
 - [CORO support to wage earners](https://milaap.org/fundraisers/support-luis-miranda?community=10177)
 -  [N-95 masks to doctors]( https://milaap.org/fundraisers/support-project-mumbai?community=10177)
+- ![Maharashtra Poster](https://github.com/Sabarish-Shankar/COVID-19/blob/master/WhatsApp%20Image%202020-03-31%20at%206.24.29%20AM.jpeg)
 
 5. **Tamil Nadu (TN) Chennai** 
 - https://milaap.org/fundraisers/support-conservancy-workers?community=10177
